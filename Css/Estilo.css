@@ -1,0 +1,62 @@
+.my-custom-card {
+    width: 450px;
+    height: 200px; 
+    border: 1px solid #000000;
+    background-color: #d4e02b;
+}
+.carousel-inner img {
+    width: 300px;
+    display: block;
+}  
+.custom-img {
+    width: 450x; 
+    height: 300px; 
+    object-fit: cover;
+}
+.navbar{
+    background-color: #d14fe2;
+}
+body{
+    background-color: #000000 ;
+}
+.con1{
+    background-color: #ff7300;
+    border:2px solid black;
+}
+.my-card{
+    background-color: #d14fe2;
+    border: 2px solid black;
+}
+.my-card img{
+    width: 340px;
+    height: 200px;
+    border: 1px solid black;
+}
+.card-fdo{
+    background-color: #d14fe2;
+    border: 1px solid black;
+}
+.card-fdo img{
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+}
+.Cantidad label{
+    margin-left: 180px;
+    font-size: 15px;
+    color: black;
+}
+.cantidad input{
+    width: 60px;
+}
+.ini-sesio{
+    background: linear-gradient(#d14fe2, #611c68);
+    border: 2px solid black;
+}
+.ini-sesio button{
+    background: linear-gradient(#103CE7, #64E9FF);
+}
+footer{
+    background-color:#3f1844#273542;
+}
+
